@@ -10,7 +10,7 @@
 	- 思路3：训练Word2Vec词向量 + TextCNN模型分类
 	- 思路4：训练BERT词向量并分类
 	- 思路5：BERT分类 + 统计特征的树模型
-	- 思路6：......
+	- 思路6：......  
 ![不平衡类别数据](https://img-blog.csdnimg.cn/20200804153539796.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDkyMjE3NQ==,size_16,color_FFFFFF,t_70)
 1. 赛题中每个新闻包含的字符个数平均为1000个，还有一些新闻字符较长；
 2. 赛题中新闻类别分布不均衡，科技类新闻样本量接近4万，星座类新闻(13)样本量不到1千；
