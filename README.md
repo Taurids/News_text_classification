@@ -18,3 +18,7 @@
 
 🛴利用[BERT + 全局平均池化](https://github.com/Taurids/News_text_classification/blob/master/code/Simple_BERT.ipynb)进行新闻文本分类
 - 配置：Tensorflow2.0+ 、Transformers库[v3.0.2](https://huggingface.co/transformers/)、[bert-base-chinese](https://huggingface.co/bert-base-chinese#list-files)
+
+## 专题收集
+- [专题一](https://shimo.im/docs/XjgPqPPXtqXTQPGh) 比赛概览、总结及问题收集
+- [专题二](https://shimo.im/docs/6xXdKRGkTCWHddx8) Baseline进化、总结及问题收集
