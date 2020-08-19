@@ -1,5 +1,5 @@
 # 零基础入门NLP-新闻文本分类
-🎯[比赛地址](https://tianchi.aliyun.com/competition/entrance/531810/introduction)
+🎯[比赛地址](https://tianchi.aliyun.com/competition/entrance/531810/introduction)  
 文本分类的任务是将给定的文本划分到事先规定的文本类别。
 
 - 赛题难度
@@ -19,6 +19,6 @@
 🛴利用[BERT + 全局平均池化](https://github.com/Taurids/News_text_classification/blob/master/code/Simple_BERT.ipynb)进行新闻文本分类
 - 配置：Tensorflow2.0+ 、Transformers库[v3.0.2](https://huggingface.co/transformers/)、[bert-base-chinese](https://huggingface.co/bert-base-chinese#list-files)
 
-## 专题收集
+## 🍣专题收集
 - [专题一](https://shimo.im/docs/XjgPqPPXtqXTQPGh) 比赛概览、总结及问题收集
 - [专题二](https://shimo.im/docs/6xXdKRGkTCWHddx8) Baseline进化、总结及问题收集
