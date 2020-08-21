@@ -18,6 +18,7 @@
 
 🛴利用[BERT + 全局平均池化](https://github.com/Taurids/News_text_classification/blob/master/code/Simple_BERT.ipynb)进行新闻文本分类
 - 配置：Tensorflow2.0+ 、Transformers库[v3.0.2](https://huggingface.co/transformers/)、[bert-base-chinese](https://huggingface.co/bert-base-chinese#list-files)  
+
 🛴利用[BERT+BI-LSTM](https://github.com/Taurids/News_text_classification/blob/master/code/Pytorch_BERT.ipynb)进行新闻文本分类
 - 配置：torch1.4.0、Transformers库[v3.0.2](https://huggingface.co/transformers/)、[预训练BERT](https://pan.baidu.com/s/1zd6wN7elGgp1NyuzYKpvGQ) 提取码：tmp5
 
